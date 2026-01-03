@@ -1,11 +1,11 @@
-### Привет, я Сергей! 👋
-**Senior Fullstack Developer (Python / Vue / Flutter)** из Узбекистана.
+### Hi, I'm Sergey! 👋
+**Senior Fullstack Developer (Python / Vue / Flutter)** based in Uzbekistan.
 
-Я занимаюсь разработкой уже более 6 лет. Создаю сложные веб-сервисы, Telegram-ботов и мобильные приложения. Основатель микро-студии [Micolux](https://micolux.ru).
+I’ve been building software for 6+ years — complex web services, Telegram bots, and mobile apps. Founder of the micro-studio [Micolux](https://micolux.ru).
 
 ---
 
-### 🛠 Мой стек технологий
+### 🛠 Tech Stack
 
 **Backend:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,17 +21,18 @@
 
 ---
 
-### 📊 Моя статистика
+### 📊 GitHub Stats
+> Note: the public `github-readme-stats.vercel.app` is currently paused by the owner.  
+> To enable stats, deploy your own instance on Vercel and replace the domain in the image links.
+
 <p align="left">
-<a href="https://github.com/darL1n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darL1n&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darL1n&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darL1n&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=C9D1D9&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darL1n&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
 </p>
 
 ---
 
-### 📫 Контакты
-* 🌍 **Сайт:** [micolux.ru](https://micolux.ru)
-* ✈️ **Telegram:** [@darl1ne](https://t.me/darl1ne)
-* 💼 **Коммерческая разработка:** Доступен для заказов
+### 📫 Contacts
+- 🌍 Website: [micolux.ru](https://micolux.ru)
+- ✈️ Telegram: [@darl1ne](https://t.me/darl1ne)
+- 💼 Availability: Open for freelance/contract work
